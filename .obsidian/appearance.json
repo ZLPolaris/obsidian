@@ -1,3 +1,13 @@
 {
+<<<<<<< HEAD
   "accentColor": ""
+=======
+  "accentColor": "#f54242",
+  "cssTheme": "Sanctum",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "HarmonyOS Sans",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
+>>>>>>> remotes/origin/omen7
 }

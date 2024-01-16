@@ -7,7 +7,10 @@
   "canvas": true,
   "outgoing-link": true,
   "tag-pane": true,
+<<<<<<< HEAD
   "properties": false,
+=======
+>>>>>>> remotes/origin/omen7
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
@@ -17,6 +20,7 @@
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
+<<<<<<< HEAD
   "zk-prefixer": false,
   "random-note": false,
   "outline": true,
@@ -27,4 +31,17 @@
   "file-recovery": true,
   "publish": false,
   "sync": false
+=======
+  "zk-prefixer": true,
+  "random-note": true,
+  "outline": true,
+  "word-count": true,
+  "slides": true,
+  "audio-recorder": true,
+  "workspaces": false,
+  "file-recovery": true,
+  "publish": false,
+  "sync": true,
+  "properties": true
+>>>>>>> remotes/origin/omen7
 }

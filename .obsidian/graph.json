@@ -17,6 +17,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 1,
+=======
+  "scale": 0.18462326225858128,
+>>>>>>> remotes/origin/omen7
   "close": true
 }
