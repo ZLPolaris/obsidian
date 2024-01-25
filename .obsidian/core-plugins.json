@@ -7,10 +7,6 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
-<<<<<<< HEAD
-=======
-  "properties",
->>>>>>> remotes/origin/omen7
   "page-preview",
   "daily-notes",
   "templates",
@@ -18,18 +14,7 @@
   "command-palette",
   "editor-status",
   "bookmarks",
-<<<<<<< HEAD
   "outline",
   "word-count",
   "file-recovery"
-=======
-  "zk-prefixer",
-  "random-note",
-  "outline",
-  "word-count",
-  "slides",
-  "audio-recorder",
-  "file-recovery",
-  "sync"
->>>>>>> remotes/origin/omen7
 ]

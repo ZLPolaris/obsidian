@@ -9,3 +9,13 @@
 [git rebase详解（图解+最简单示例，一次就懂）-CSDN博客](https://blog.csdn.net/weixin_42310154/article/details/119004977)
 
 [refusing to merge unrelated histories的解决方案（本地/远程）综合-CSDN博客](https://blog.csdn.net/junruitian/article/details/88361895)
+
+[git如何取消merge_git放弃本地merge-CSDN博客](https://blog.csdn.net/weixin_40984292/article/details/100024411)
+
+
+
+## GitHub
+[github_修改当前仓库的默认分支_github修改默认分支-CSDN博客](https://blog.csdn.net/xuchaoxin1375/article/details/111414527)
+
+本地更换主分支
+[git更换主分支master_更改主分支-CSDN博客](https://blog.csdn.net/weboof/article/details/116978611)
